@@ -1,1 +1,11 @@
 odoo_pg_pass
+config/odoo.conf
+__pycache__/
+*.pyc
+*.pyo
+*.swp
+*.swo
+.DS_Store
+.env
+*.log
+
